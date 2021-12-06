@@ -1,6 +1,6 @@
 ### Heya 👋
 
-I'm Toggle! I do part-time webdev for various clients, and my own projects here in the meantime. 
+I'm Daniel, or Toggle! I do part-time webdev for various clients, and my own projects here in the meantime. 
 
 Some things I'm particularly interested in:
 
