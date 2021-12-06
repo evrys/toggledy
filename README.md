@@ -9,4 +9,4 @@ Some things I'm particularly interested in:
 - Games with positive social effects (like Pokémon GO)
 - Weird roguelike or simulation games
 
-If you're working on something cool like those, we should totally chat about it!
+If you're working on something cool like those, we should chat about it ^^
